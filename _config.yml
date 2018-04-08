@@ -6,7 +6,7 @@ email: yzr2064@gmail.com
 description: "huawei online judge"
 keyword: "Shaun Young, code, OJ"
 url: "https://zryang.github.io/huaweioj/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/huaweioj"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 highlighter: rouge
 permalink: pretty
